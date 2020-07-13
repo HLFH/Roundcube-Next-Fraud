@@ -32,4 +32,5 @@ Most of the questions are:
 
 [Litigation and enforcement in Switzerland: overview](https://uk.practicallaw.thomsonreuters.com/1-502-1695?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
 
+[The essentials of class actions in Switzerland](https://www.lexology.com/library/detail.aspx?g=f49c4eba-c393-4aeb-87b1-f93a5ed266fc)
 
