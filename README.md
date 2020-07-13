@@ -27,3 +27,6 @@ Most of the questions are:
  **- Until when you can sue?**
 
 Press article on Phoronix on this rewards-based crowdfunding fraud (in 2017): https://www.phoronix.com/scan.php?page=news_item&px=RoundCube-Next-Silent-2017
+[Litigation and enforcement in Switzerland: overview](https://uk.practicallaw.thomsonreuters.com/1-502-1695?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
+
+
