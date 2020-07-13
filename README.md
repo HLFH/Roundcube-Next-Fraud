@@ -1,4 +1,4 @@
-# Roundcube-Next-Fraud
+# Roundcube Next rewards-based crowdfunding fraud
 
 Roundcube Next was part of a rewards-based crowdfunding campaign [on Indiegogo](https://www.indiegogo.com/projects/roundcube-next--2#/), launched on 3 May 2015.
 The European Commission defines the most important requirements of a [rewards-based crowdfunding campaign](https://ec.europa.eu/growth/tools-databases/crowdfunding-guide/types/rewards_en):
