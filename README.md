@@ -22,3 +22,5 @@ Most of the questions are:
  - Who to sue?
  - How to sue?
  - Until when you can sue?
+
+Press article on Phoronix on this rewards-based crowdfunding fraud (in 2017): https://www.phoronix.com/scan.php?page=news_item&px=RoundCube-Next-Silent-2017
