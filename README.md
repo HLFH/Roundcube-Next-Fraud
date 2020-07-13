@@ -3,8 +3,9 @@
 Roundcube Next was part of a rewards-based crowdfunding campaign [on Indiegogo](https://www.indiegogo.com/projects/roundcube-next--2#/), launched on 3 May 2015.
 The European Commission defines the most important requirements of a [rewards-based crowdfunding campaign](https://ec.europa.eu/growth/tools-databases/crowdfunding-guide/types/rewards_en):
 
-**- you just deliver the service or the goods promised ;
-- you are obliged to deliver on your promises on schedule.**
+**- you just deliver the service or the goods promised ;**
+
+**- you are obliged to deliver on your promises on schedule.**
 
 No service nor good have been delivered.
 Therefore, backers of the "Roundcube Next" campaign should be refunded by Kolab Systems AG OR Apheleia IT AG.
@@ -19,8 +20,10 @@ Between Switzerland and the EEA, you have the [Lugano Convention](https://en.wik
 
 Most of the questions are:
 
- - Who to sue?
- - How to sue?
- - Until when you can sue?
+ **- Who to sue?**
+ 
+ **- How to sue?**
+ 
+ **- Until when you can sue?**
 
 Press article on Phoronix on this rewards-based crowdfunding fraud (in 2017): https://www.phoronix.com/scan.php?page=news_item&px=RoundCube-Next-Silent-2017
