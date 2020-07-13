@@ -34,3 +34,5 @@ Most of the questions are:
 
 [The essentials of class actions in Switzerland](https://www.lexology.com/library/detail.aspx?g=f49c4eba-c393-4aeb-87b1-f93a5ed266fc)
 
+[What happens to debt when selling a business](https://www.morganandwestfield.com/blog/what-happens-debt-when-selling-business)
+
